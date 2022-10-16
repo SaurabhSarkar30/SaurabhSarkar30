@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaurabhSarkar30 .
+- 👋 Hi, I’m @Saurabh Sarkar .
 - 👀 I’m interested in both front-end and back-end web developing . 
 - 🌱 I’m currently learning Javascript .
 - 💞️ I’m looking to collaborate on .
